@@ -10,4 +10,5 @@ var balloonKid = prompt("How many balloons per kid");//balloons per kid
 var costBallon = .99
 
 var balloonTotal = manykids * balloonsKid;// total of ballons needed
-var ballonTotal = costballoon * balloonTotal; //total cost of balloons
+var balloonCost = costballoon * balloonTotal; //total cost of balloons
+var moneyLeft = moneySpent - balloonCost; //money left
