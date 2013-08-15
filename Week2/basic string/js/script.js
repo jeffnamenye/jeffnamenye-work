@@ -4,3 +4,4 @@ var lastName = "Namenye";
 var fullName = firstName + " " + lastName;
 
 console.log (fullName);
+//first string
