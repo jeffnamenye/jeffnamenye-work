@@ -25,5 +25,5 @@ colorBall [0] = "soccer";// types of balls
 colorBall [1] = "baseball";// types of balls
 alert(colorBall);// print out
 
-var averagePrice = "his is the average cost per year $"+ " "+ totalPrice + "at 99 cents a ball";
-alert (averagePrice)
+var averagePrice = "This is the average cost per year $"+ " "+ totalPrice + "at 99 cents a ball";//Total price
+alert (averagePrice)//Print out of total
