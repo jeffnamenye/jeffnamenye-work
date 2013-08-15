@@ -13,8 +13,8 @@ var balloonTotal = manykids * balloonKid;// total of ballons needed
 var balloonCost = costBalloon * balloonTotal; //total cost of balloons
 var moneyLeft = moneySpent - balloonCost; //money left
 
-var balloonMoney = "This is how much for all the balloons"+ baloonCost;// this how much it will cost for the balloons
+var balloonMoney = "This is how much for all the balloons"+ balloonCost;// this how much it will cost for the balloons
 alert(balloonMoney);//print out
 
 var moneyRemain = "This how much you will have left after cost of balloons" +moneyLeft;// this how much you will have left
-alert (moneyRemain);
+alert (moneyRemain);//print out
