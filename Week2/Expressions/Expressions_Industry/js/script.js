@@ -9,5 +9,9 @@ var current = prompt ("Please enter a value for current");// Asking for a number
 var volts = prompt ("Please enter a value for volts") ;//Asking for a number for voltage
 var resistance = prompt ("Please enter a value for resistance");//Asking for a number for ressistance
 
+//This is where calculations are done
+var outVolts = current * resistance;//Taking current and multiply resistance to get volts
+var currentI = volts / resistance;//Taking volts and divide by resistance to get current
+var resistanceR = volts / current;//Taking volts and divides by current to get resistance
 
 
