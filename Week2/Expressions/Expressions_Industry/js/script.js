@@ -17,7 +17,7 @@ var resistanceR = volts / current;//Taking volts and divides by current to get r
 
 var outPut = new Array ();
 
-outPut [0] = "The voltage is" + " " + outVolts +" "+ "volts";
-outPut [1] = "The current is" + " " + currentI +" " + "amps";
-outPut [2] = "The resistance is" + " " + resistanceR +" " + "ohms";
-alert (outPut);
+outPut [0] = "The voltage is" + " " + outVolts +" "+ "volts";// Tells what the volts are going to be
+outPut [1] = "The current is" + " " + currentI +" " + "amps";//Tells what the current will be
+outPut [2] = "The resistance is" + " " + resistanceR +" " + "ohms";//Tells what resistance will be
+alert (outPut);//Prints the info of the aray
