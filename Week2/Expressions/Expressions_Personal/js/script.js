@@ -3,7 +3,7 @@
 
 
 
-//This is where the user decides  how many  packs of balls Sammy gets 
+//This is where the user decides  how many  packs of balls Sammy gets and what kina of balls
 
 var ballsPack = prompt("This is for the number of balls per pack, \nPlease enter a number between 1-4");// balls per pack
 var ballsWeek = prompt("This is how many balls Sammy gets in a week. \nPlease enter a number from 1-7");// how many balls does he get in a week
