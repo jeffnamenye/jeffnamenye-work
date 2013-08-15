@@ -9,11 +9,12 @@ var moneySpent = prompt("How much money do you want to spend.");//money to spend
 var balloonKid = prompt("How many balloons per kid");//balloons per kid
 var costBallon = .99
 
-var balloonTotal = manykids * balloonsKid;// total of ballons needed
-var balloonCost = costballoon * balloonTotal; //total cost of balloons
+var balloonTotal = manykids * balloonKid;// total of ballons needed
+var balloonCost = costBalloon * balloonTotal; //total cost of balloons
 var moneyLeft = moneySpent - balloonCost; //money left
 
 var balloonMoney = "This is how much for all the balloons"+ baloonCost// this how much it will cost for the balloons
 alert(balloonMoney);//print out
 
 var moneyRemain = "This how much you will have left after cost of balloons" +moneyLeft;// this how much you will have left
+alert (moneyRemain);
