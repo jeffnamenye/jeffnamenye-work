@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="23" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
-<window height="804" width="1200" x="21" y="22">
+<window height="801" width="1252" x="22" y="30">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -17,6 +17,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.html" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -26,10 +27,16 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor activePart="true" focus="true" id="com.aptana.editor.js" name="script.js" partName="script.js" title="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Dog Years/js/script.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Dog%20Years/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="108" selectionOffset="276" selectionTopPixel="0"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
@@ -58,7 +65,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.aptana.explorer.view" activePerspective="com.aptana.ui.WebPerspective">
+<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
@@ -161,24 +168,163 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Discounts/index.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/index.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/average%20shopping%20bill/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Personal/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Wacky/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/associating%20js/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/basic%20string/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Industry/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Dog%20Years/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Slice%20of%20pie%20Part%201/js/script.js"/>
 </editors>
-<item historyLabel="index.html | Discounts" index="0">
-<position info="not_deleted" x="0" y="141"/>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="141" y="0"/>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
 </item>
-<item historyLabel="index.html | Discounts" index="0">
-<position info="not_deleted" x="0" y="141"/>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="141" y="0"/>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
 </item>
-<item active="true" historyLabel="index.html" index="2">
-<position info="not_deleted" x="0" y="165"/>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position/>
+</item>
+<item historyLabel="script.js | Expressions_Wacky" index="1">
+<position info="not_deleted" x="951" y="0"/>
+</item>
+<item historyLabel="script.js | associating js" index="2">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="script.js | basic string" index="3">
+<position info="not_deleted" x="170" y="0"/>
+</item>
+<item historyLabel="script.js | associating js" index="2">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Wacky" index="1">
+<position info="not_deleted" x="951" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Wacky" index="1">
+<position info="not_deleted" x="918" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Wacky" index="1">
+<position info="not_deleted" x="950" y="0"/>
+</item>
+<item historyLabel="script.js" index="0">
+<position/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="227" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="227" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="491" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="421" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="512" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="134" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="398" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="1427" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="398" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1058" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1160" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1282" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="1427" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1282" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="1427" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1159" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="1427" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1159" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1081" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1074" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1058" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1157" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1256" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1359" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Industry" index="4">
+<position info="not_deleted" x="1359" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js | Expressions_Personal" index="0">
+<position info="not_deleted" x="1427" y="0"/>
+</item>
+<item historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js | Slice of pie Part 1" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="script.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -186,6 +332,10 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@26fbfc"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -193,10 +343,47 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Slice of pie Part 1/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Slice%20of%20pie%20Part%201/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Dog Years/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/Dog%20Years/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Industry/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Industry/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Personal/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Personal/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/basic string/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/basic%20string/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/associating js/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/associating%20js/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Wacky/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Wacky/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Prompt and Alert/js/script.js">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Prompt%20and%20Alert/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Personal/index.html">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Personal/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Prompt and Alert/index.html">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Prompt%20and%20Alert/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Wacky/index.html">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Wacky/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Industry/index.html">
+<persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions/Expressions_Industry/index.html"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/average shopping bill/index.html">
 <persistable uri="file:/Users/jeffnamenye/Documents/WPF_Namenye_Jeff/Week2/Expressions_worksheet/average%20shopping%20bill/index.html"/>
 </file>
