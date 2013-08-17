@@ -13,3 +13,4 @@ if (kidHeight > miniHeight){
 	//code performed if condition is false
 	console.log("Sorry kid, you have some growing to do first");
 }
+
