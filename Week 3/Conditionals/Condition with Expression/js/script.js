@@ -1,14 +1,17 @@
 //Conditional logic-With an expression
 
+//is the password correct
+//check to see if user name and password are correct
+var user = Tim Allen;
+var pass = asxscd;
+var username = Jeff Namenye;
+var password = azsxdc;
 
-var kidHeight = 50;
-var miniHeight = 48;
-var sneakerLift = 2;
-
-//if the child is old enough, print counsole "You can ride"
-//if the child is over 48 inches in height
-if (kidHeight + sneakerLift){
+//if the uername and password are correct print "Welcome" username
+//if the username does not match print "Username not found"
+//if password does not match print "Password does not match our records"
+if (username == user && password == pass){
 	//counsel performed if conditions is true
-	console.log("You can ride");
+	console.log("Welome" +" " + username);
 	
 }
