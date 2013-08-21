@@ -11,7 +11,7 @@ var amountAir = 10; //this is the amount you breath per hour
 var distance = 150; // distance to lander from rover
 
 //calculations
-var hoursRover = distance / speed;
+var hoursRover = distance / speed; 
 var timeReturn = air / amountAir;
  
-if (hoursRover > timeReturn) ? prompt  ("You die") : prompt ("You live") ; 
+ (hoursRover > timeReturn) ? prompt  ("You die") : prompt ("You live") ; 
