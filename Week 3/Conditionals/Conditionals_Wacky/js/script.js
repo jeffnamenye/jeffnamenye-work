@@ -15,4 +15,4 @@ var hoursRover = distance / speed; //this how many hours it take to reach space 
 var timeReturn = air / amountAir;// this how long before you run out of air
 
  
- (hoursRover > timeReturn) ? prompt  ("You die") : prompt ("You live") ; 
+ (hoursRover > timeReturn) ? prompt  ("You die") : prompt ("You live") ; //Print out the results
