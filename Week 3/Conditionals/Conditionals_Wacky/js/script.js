@@ -11,7 +11,8 @@ var amountAir = 10; //this is the amount you breath per hour
 var distance = 150; // distance to lander from rover
 
 //calculations
-var hoursRover = distance / speed; 
-var timeReturn = air / amountAir;
+var hoursRover = distance / speed; //this how many hours it take to reach space capsule
+var timeReturn = air / amountAir;// this how long before you run out of air
+
  
  (hoursRover > timeReturn) ? prompt  ("You die") : prompt ("You live") ; 
