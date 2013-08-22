@@ -14,8 +14,9 @@ var watts = amps * volts;// this where you multiply amps times volts to get you 
  (doorsClosed == 3) ? prompt ("All doors closed to run") : prompt ("You can not run, all doors not closed");//Print out come
 
  if (watts >= 30000){
-	prompt ("You have enough wattage to run") ;}//this is where the out come of voltage
-} else { prompt ("You do not have enough wattage to run");
+	prompt ("You have enough wattage to run") ;
+	}//this is where the out come of voltage
+ else { prompt ("You do not have enough wattage to run");
 
 }
 
