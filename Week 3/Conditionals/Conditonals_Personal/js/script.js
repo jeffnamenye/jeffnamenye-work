@@ -19,7 +19,7 @@ if (budget > totalPrice){ // this where you find out if your in your budget
 	prompt("You recive a discout of 20%, but you may still be over budget.");
 
 }else {
-	prompt("Sorry but your over budget");
+	prompt("Sorry but your over budget.");
 }
 
 
