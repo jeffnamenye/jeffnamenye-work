@@ -16,7 +16,7 @@ if (budget > totalPrice){ // this where you find out if your in your budget
 	prompt ("We will be happy to cater your party");//print out 
 	
 } else if (totalPrice > discountPrice){ //if your total price is over 1500 dollars you recive a 20% discount
-	prompt("You recive a discout of 20%");
+	prompt("You recive a discout of 20%, but you may still be over budget.");
 
 }else {
 	prompt("Sorry but your over budget");
