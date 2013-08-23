@@ -13,7 +13,7 @@ var password = 552288;
 if (username == user && password == pass){
 	//counsel performed if conditions is true
 	console.log("Welome" +" " + username);}
-	else if (password == pass){
+if (pass == password){
 		console.log ("Password does not match our records."); 
 }else{ (user == username)
 	console.log("Username not found"); 
