@@ -6,3 +6,8 @@
 var kill = poundsKill (20, 8.666666667);//argument variables
 
 
+function poundsKill (lb, sting){//parameter vriables
+	var totalStings ( lb * sting);
+}
+
+
