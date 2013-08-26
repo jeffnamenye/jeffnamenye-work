@@ -9,4 +9,4 @@ function circRadius (r, p){//Paramaters
 	var circumference = (2 * r * p);
 	return circumference;
 }
-console.log (circum);
+console.log (circum);//print out
