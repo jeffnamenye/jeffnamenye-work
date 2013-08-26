@@ -19,6 +19,6 @@ var time= 6;
  }
  if (time < 5 || time > 3 ); {
 	console.log ("you pay $7");
-} else () { 
+} else { 
 	console.log("ticket price is $12")	
 }
