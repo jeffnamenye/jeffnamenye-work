@@ -3,9 +3,9 @@
 
 // calaculate the circumference of a circle
 
-var circum = circRadius (2, 4, 3.14);// argument 
+var circum = circRadius ( 4, 3.14);// argument 
 
-function circRadius (2, r, p){//Paramaters
+function circRadius (r, p){//Paramaters
 	var circumference = (2 * r * p);
 	return circumference;
 }
