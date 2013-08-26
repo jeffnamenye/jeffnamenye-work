@@ -1,11 +1,5 @@
-//Circumferece
+//Jeff Namenye  8/25/2013 Circumferece
 
 
-var calcArea = function(width * height){
-	//code the function runs
-	var area = width * height;
-	return area;
-}
-var a = calcArea(20, 30); //invoking
+// calaculate the circumference of a circle
 
-console.log(a);
