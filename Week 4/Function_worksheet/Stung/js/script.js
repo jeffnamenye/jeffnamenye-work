@@ -1,11 +1,8 @@
-//Anoymous Functions
+//Jeff Namenye 8/26/13 stung
 
 
-var calcArea = function(width * height){
-	//code the function runs
-	var area = width * height;
-	return area;
-}
-var a = calcArea(20, 30); //invoking
+//How many bee stings to kill an animal
 
-console.log(a);
+var kill = poundsKill (20, 8.666666667);//argument variables
+
+
