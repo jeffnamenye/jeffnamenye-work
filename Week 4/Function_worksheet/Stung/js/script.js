@@ -7,7 +7,7 @@ var lb = 20;//ponds
 var sting = 8.666666667;//stings
 
 var kill = poundsKill (lb, sting);//argument variables
-
+ 
 function poundsKill (lb, sting){//parameter vriables
 	var totalSting  = lb * sting;// calaculating the equatuion
 	
@@ -16,5 +16,5 @@ function poundsKill (lb, sting){//parameter vriables
 	
 }
 
-console.log ("It takes" +" " + kill)
+console.log ("It takes" +" " + kill + " " + " a" + " " + "lb animal. "  )
 
