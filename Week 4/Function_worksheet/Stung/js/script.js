@@ -9,7 +9,8 @@ var kill = poundsKill (20, 8.666666667);//argument variables
 function poundsKill (lb, sting){//parameter vriables
 	var totalStings ( lb * sting);// calaculating the equatuion
 	var pounds = (lb;)// in pounds
+	var beeSting = (sting);
 	return totalSting;//return to top
 }
-
+console.log ("It takes "+" " + sting +" " + "bee stings to kill" + " " +lb + " " + "lb animal." );
 
