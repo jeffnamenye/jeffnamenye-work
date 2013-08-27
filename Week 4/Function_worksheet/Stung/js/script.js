@@ -3,10 +3,10 @@
 
 //How many bee stings to kill an animal
 
+var lb = 20;//ponds
+var sting = 8.666666667;//stings
+
 var kill = poundsKill (lb, sting);//argument variables
-var lb = 20;
-var sting = 8.666666667;
-var totalSting = lb * sting
 
 function poundsKill (lb, sting){//parameter vriables
 	var totalSting  = lb * sting;// calaculating the equatuion
@@ -16,5 +16,5 @@ function poundsKill (lb, sting){//parameter vriables
 	
 }
 
-console.log ("It takes "+" " + totalSting + "to kill a "+ lb);//print out
+console.log ("It takes" +" " + kill)
 
