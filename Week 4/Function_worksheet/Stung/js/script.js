@@ -12,5 +12,5 @@ function poundsKill (lb, sting){//parameter vriables
 	var beeSting = (sting);
 	return totalSting;//return to top
 }
-console.log ("It takes "+" " + sting +" " + "bee stings to kill" + " " +lb + " " + "lb animal." );
+console.log ("It takes "+" " + sting +" " + "bee stings to kill" + " " +lb + " " + "lb animal." );//print out
 
