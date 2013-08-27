@@ -3,6 +3,8 @@
 
 //count down to launch
 
+var tank = prompt ("How much fuel do you use in lift off in a percent using a decimal")//prompt for gas use
+var fuel = 10000//fuel in tank
 
 
 
