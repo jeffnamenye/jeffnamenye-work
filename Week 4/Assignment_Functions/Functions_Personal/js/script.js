@@ -6,11 +6,11 @@ var meal = prompt ("How much do you want to spend on a meal, enter an amount bet
 var tip = prompt (" Please enter a tip amount between 1-5");//tip amount
 var drink = 1.59;//drink cost
 
-var total = totalPrice(meal, tip, drink);
+var total = totalPrice(meal, tip, drink);//argument 
 
-function totalPrice(meal, tip, drink){
-	var finalPrice = (meal + tip + drink);
-	prompt("Your total price is $" + finalPrice);
+function totalPrice(meal, tip, drink){//parameters
+	var finalPrice = (meal + tip + drink);//calculation for total price
+	prompt("Your total price is $" + finalPrice);//prompt print out
 }
 
 
