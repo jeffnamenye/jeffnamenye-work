@@ -12,12 +12,12 @@ var thrustUp =   thrustPower - satWeight;
 var thrustBoost = thrustUp + booster;
 
 if (thrustUp > 0){
-	prompt ("You can lift off");
+	prompt ("You can lift off.");
 
 }else if (thrustBoost > 0){
-	prompt ("You can lift off");
+	prompt ("You can lift off with booster.");
 
-}else { prompt ("You can not fly");
+}else { prompt ("You can not fly.");
 
 }
 
