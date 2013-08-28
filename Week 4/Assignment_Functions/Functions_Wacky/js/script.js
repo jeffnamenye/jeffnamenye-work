@@ -3,17 +3,22 @@
 
 //launch a satelite
 
-var satWeight = prompt ("Enter the a number between 1-250 for the weght of satelite")//prompt weight for satelite
-var thurstPower = prompt ("Enter a number between 1 and 300, for thust power")//thurst to lift off
-var time = 180 //time window
+var satWeight = prompt ("Enter the a number between 1-250 for the weght of satelite");//prompt weight for satelite
+var thurstPower = prompt ("Enter a number between 1 and 300, for thust power");//thurst to lift offΩ;
+var booster = prompt ("Enter a number 1-100");//extra boost
 
-var countDown = prompt ("Please tell the number between 1 and 10");//prompt for # for count down
 
-do {
-	prompt (countDown + "secs");//count down
-	countDown--;
+var thurstUp =   thrustPower - satWeight;
+var thrustBoost = thrustup + booster;
+
+if (thurstUp > 0){
+	prompt ("You can lift off");
+
+}else if (thrustBoost > 0){
+	prompt ("You can lift off");
+
+}else { prompt ("You cant fly");
+
 }
-while (countDown > 0);
 
-prompt("Blast off");//print blast off
 
