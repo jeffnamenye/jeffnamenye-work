@@ -1,22 +1,19 @@
 // Jeff Namenye 8/27/13 Functions_Wacky
 
 
-//count down to launch
+//launch a satelite
 
-var tank = prompt ("How much fuel do you use in lift off in a percent using a decimal")//prompt for gas use
-var fuel = 10000//fuel in tank
-var liftGas = 5000//how much gas is needed for lift off
-var totalGas = tank * fuel//claculation for fuel
-var gas;
-
-gas = ()
-
+var satWeight = prompt ("Enter the a number between 1-250 for the weght of satelite")//prompt weight for satelite
+var thurstPower = prompt ("Enter a number between 1 and 300, for thust power")//thurst to lift off
+var time = 180 //time window
 
 var countDown = prompt ("Please tell the number between 1 and 10");//prompt for # for count down
 
 do {
-	prompt (countDown + "secs");
+	prompt (countDown + "secs");//count down
 	countDown--;
 }
 while (countDown > 0);
+
+prompt("Blast off");//print blast off
 
