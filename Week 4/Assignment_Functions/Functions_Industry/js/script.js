@@ -4,7 +4,7 @@
 // getting the electric feild of an eletric charge
 
 
-function  electricCharge (){
+function  electricCharge (){//start function
 
 var electricFeild = prompt ("Please enter a number for electric feild");// enter a number for electric feild
 var force = prompt ("Please enter a number for force");//enter a number for force
