@@ -19,3 +19,10 @@ prompt ("The force is " + " " + f );
 prompt ("The charge is" + " " + q);
 }
 electricCharge()
+
+if (f < q || q > ef){
+	prompt ("You can start the Linac");
+	
+}else {
+	prompt ("You can not start Linac");
+}
