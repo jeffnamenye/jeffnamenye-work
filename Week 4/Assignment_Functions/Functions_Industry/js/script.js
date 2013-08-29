@@ -19,14 +19,14 @@ prompt ("The force is " + " " + f );//prompt for force
 prompt ("The charge is" + " " + q);//prompt for charge
 
 if (q > f || f < ef){
-	prompt ("You can start the Linac laser")
+	prompt ("You can start the Linac laser")//if condition is true
 	
 }else {
 	
-	prompt("You can not run the Linac laser");
+	prompt("You can not run the Linac laser");//if condition is not true
 }
 
 }
-electricCharge()
+electricCharge()//call function
 
 
