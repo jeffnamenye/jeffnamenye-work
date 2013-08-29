@@ -20,4 +20,4 @@ var tipTotal = 14// check to see is your total bill is more than 14 dollars
 var finalTotal;
 
 finalTotal = (tipTotal< total)? "Have a nice night": "Your a cheap person";//Print out response
-prompt(finalTotal);
+prompt(finalTotal);//prompt of response
