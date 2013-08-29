@@ -15,8 +15,8 @@ var f = charge * electricFeild;//calculation for charge
 var q = force / electricFeild;//calculation for force
 
 prompt ("The electric feild is" + " " + ef);//prompt for electric feild
-prompt ("The force is " + " " + f );
-prompt ("The charge is" + " " + q);
+prompt ("The force is " + " " + f );//prompt for force
+prompt ("The charge is" + " " + q);//prompt for charge
 
 if (q > f || f < ef){
 	prompt ("You can start the Linac laser")
